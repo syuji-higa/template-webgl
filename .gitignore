@@ -1,0 +1,8 @@
+.DS_Store
+Thumb.db
+node_modules
+npm-debug.log
+dist
+.env
+.trash
+.vscode
